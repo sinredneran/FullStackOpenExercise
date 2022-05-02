@@ -1,0 +1,1 @@
+# solution for the exercise 2.6-2.10 of full stack open website
